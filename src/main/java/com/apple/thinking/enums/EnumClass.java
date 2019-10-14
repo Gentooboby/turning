@@ -1,4 +1,4 @@
-package com.apple.thinking.enumerated;
+package com.apple.thinking.enums;
 
 import static com.apple.util.Print.print;
 

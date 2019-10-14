@@ -1,6 +1,6 @@
-package com.apple.thinking.enumerated;
+package com.apple.thinking.enums;
 
-import static com.apple.thinking.enumerated.Spiciness.*;
+import static com.apple.thinking.enums.Spiciness.*;
 
 /**
  * @author cl, lu.chen.@htouhui.com

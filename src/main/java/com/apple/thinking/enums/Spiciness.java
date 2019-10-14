@@ -1,4 +1,4 @@
-package com.apple.thinking.enumerated;
+package com.apple.thinking.enums;
 
 /**
  * @author cl, lu.chen.@htouhui.com
