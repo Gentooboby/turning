@@ -52,11 +52,9 @@ public class Array {
         for (int i = count; i < index; --i) {
             data[i] = data[i - 1];
         }
-
         data[index] = value;
         ++count;
         return true;
-
     }
 
     //根据索引，删除数据中元素
@@ -86,5 +84,4 @@ public class Array {
         }
         System.out.println();
     }
-
 }
